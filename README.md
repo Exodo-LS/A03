@@ -9,8 +9,11 @@ To download GIT, I went to https://git-scm.com/downloads and downloaded the .exe
 
 Now it is time to install and configure Webstorm. I went to www.jetbrains.com/webstorm/download/#section=windows to download the Webstorm software. Once downloaded, I ran through its installation process. I recommend using the recommended settings if you are still new. Once completed, head to settings and version control. Click on Git and choose the path to the GIT executable. Change the shelve option to stash and click test. You will know if it works by it telling you the version under the path.
 
-To validate if you successfully linked everything, create a new project and new file. Insert any information into that file. Click VCS -> Import into Version Control -> Create Git Repository and click OK. You commit the changes by VCS->Git -> Commit File and click commit. You may need to input your username and email if it is the first commit. Afterwards, Click VCS -> Import into Version Control -> Share Project on Github and click share. Head back to GitHub and check if the file is in the repository. Just like that, you now have all three softwares linked.
+To validate if you successfully linked everything, create a new project and new file. Insert any information into that file. Click VCS -> Import into Version Control -> Create Git Repository and click OK. You commit the changes by VCS->Git -> Commit File and click commit. You may need to input your username and email if it is the first commit. Afterwards, Click VCS -> Import into Version Control -> Share Project on Github and click share. Head back to GitHub and check if the file is in the repository. Just like that, you now have all three softwares are linked.
 
+Reference List Part 1:
+* PowerPoints and PDFs that were provided on Canvas
+* https://docs.github.com/en/github/getting-started-with-github/quickstart/set-up-git
 ***
 ### Part 2 Defining Words:
 
@@ -26,6 +29,6 @@ To validate if you successfully linked everything, create a new project and new 
 * **Pull** - The act of fetching changes and merging them.
 * **Remote** - This is the version of a repository or branch that is hosted on a server.
 * **Repository** - The folder where your projects are stored.
-```
-The reference I used for this was the glossary on GitHub: https://docs.github.com/en/github/getting-started-with-github/quickstart/github-glossary#repository
-```
+
+Reference List Part 2:
+https://docs.github.com/en/github/getting-started-with-github/quickstart/github-glossary#repository
